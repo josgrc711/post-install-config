@@ -40,6 +40,8 @@ Go to whatismyipaddress.com and find out what your pc's ip address is, write som
 
 
 
+Next thing is to go to portal.azure and create a virtual machine, also create a region that is not your house.
+
 
 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/03d95b58-1f2c-48fd-a85a-3f5176af45d9)
@@ -47,7 +49,7 @@ Go to whatismyipaddress.com and find out what your pc's ip address is, write som
 
 </p>
 <p>
-Go to portal.azure and create a virtual machine, also create a region that is not your house.
+
 </p>
 <br />
 
