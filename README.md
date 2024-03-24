@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-Go to whatismyipaddress.com and find out what yiour pc's ip address is, write somewhere your computer's ip address and location of the city your ip address is in.
+Go to whatismyipaddress.com and find out what your pc's ip address is, write somewhere your computer's ip address and location of the city your ip address is in.
 </p>
 <br />
 
