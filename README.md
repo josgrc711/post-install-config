@@ -42,7 +42,11 @@ Go to whatismyipaddress.com and find out what your pc's ip address is, write som
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+![image](https://github.com/josgrc711/post-install-config/assets/160549884/03d95b58-1f2c-48fd-a85a-3f5176af45d9)
+
+
 </p>
 <p>
 Go to portal.azure and create a virtual machine, also create a region that is not your house.
