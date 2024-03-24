@@ -31,17 +31,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+Go to whatismyipaddress.com and find out what your pc's ip address is, write somewhere your computer's ip address and location of the city your ip address is in.
+
 
 
 ![Capture](https://github.com/josgrc711/post-install-config/assets/160549884/906aabcf-1b6f-411e-ad22-92370228107c)
 
 
 
-Go to whatismyipaddress.com and find out what your pc's ip address is, write somewhere your computer's ip address and location of the city your ip address is in.
-</p>
-<br />
 
-<p>
 
 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/03d95b58-1f2c-48fd-a85a-3f5176af45d9)
