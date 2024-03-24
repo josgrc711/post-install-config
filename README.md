@@ -44,19 +44,19 @@ Next thing is to go to portal.azure and create a virtual machine, also create a 
 
 
 
+
+
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/03d95b58-1f2c-48fd-a85a-3f5176af45d9)
 
 
-</p>
-<p>
+Once your VM has been created, copy and paste the public ip address by using remote desktop connection.
 
-</p>
-<br />
+![image](https://github.com/josgrc711/post-install-config/assets/160549884/63823380-7219-434b-8beb-51bb8cb8aa13)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
