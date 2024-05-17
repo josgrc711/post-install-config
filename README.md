@@ -29,8 +29,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4
 - Item 5
 
-<h2>Installation Steps</h2>
-
+<h2>Setting up a VPN in a virtual machine and doing a few exercises.
+  
+  Step 1:
+  
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/e547bb5d-d008-4e6b-81e4-b28b9e8ae826)
 On your pc you will type in whatismyipaddress.com, after that you will make a notation of the IP addrress as well as the city, region and country.
 </p>
