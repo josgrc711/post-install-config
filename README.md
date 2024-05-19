@@ -29,16 +29,43 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4
 - Item 5
 
-<h2>Setting up a VPN in a virtual machine and doing a few exercises.
+Setting up a VPN in a virtual machine and doing a few exercises.
+
+
+
   
-  Step 1:
+
+ 
+ 
+ On your pc you will type in whatismyipaddress.com, after that you will make a notation of the IP addrress as well as the city, region and country.
+  
   
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/e547bb5d-d008-4e6b-81e4-b28b9e8ae826)
-On your pc you will type in whatismyipaddress.com, after that you will make a notation of the IP addrress as well as the city, region and country.
+
+
+Next thing you will do is create a virtual machine at portal.azure.com.  When you are creating your VM and you get to the part where you are selecting
+a region just make sure the region is not where you currently live.
+
+
+
+
+
+
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/8a918a61-4c7b-46fc-9e42-09a69f6b2444)
 
 
+
+
+Once you are done creating the VM you will copy the public IP address and then you will paste it in the remote desktop box.
+
+
+
+
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/d13c05ba-dc12-46ea-b268-a0679b5020f6)
+
+
+
+After you click connect in the remote desktop box you will then enter your username and password.
 
 
 
