@@ -72,6 +72,10 @@ After you click connect in the remote desktop box you will then enter your usern
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/d8e7fcc5-6f7e-4471-b7f8-c6d354e7e027)
 
 
+Once your VM is created and you are inside the VM you are going to go the browser and type in whatismyipaddress.com and
+record the IP address, the city, region and country. 
+
+
 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/19d8f7bd-14db-4060-81e5-87fa74999865)
 
