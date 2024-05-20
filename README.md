@@ -68,12 +68,18 @@ After you click connect in the remote desktop box you will then enter your usern
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/d8e7fcc5-6f7e-4471-b7f8-c6d354e7e027)
 
 
-Once your VM is created and you are inside the VM you are going to go the browser and type in whatismyipaddress.com and
+Once your VM is created and you are inside the VM, you will go to the browser and type in whatismyipaddress.com and
 record the IP address, the city, region and country. 
 
 
 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/19d8f7bd-14db-4060-81e5-87fa74999865)
+
+
+Inside the VM you will go to the google search engine and type in download proton vpn.  If your VM was created in a country
+that speaks another language other than english you may not be able to understand what you are reading when you go to google,
+the best thing to do is to simply go to google on your own pc and download proton VPN that way.  In this particular situation
+our VM was created in Dublin, Ireland so we dont need to download proton VPN on our PC we can do it on the VM that was created.
 
 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/95fd1457-81b5-4ae8-8ee8-828312cc0b9c)
