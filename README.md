@@ -85,10 +85,14 @@ our VM was created in Dublin, Ireland so we dont need to download proton VPN on 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/95fd1457-81b5-4ae8-8ee8-828312cc0b9c)
 
 
+Inside the VM you will create a proton vpn account with username and password and then sign in.
+
+
 
 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/d0cd73c3-3202-4a1b-a902-4f790f447a63)
 
+After you sign in you will go to downloads and download Windows on the Proton VPN Clients page.
 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/9e05ee35-ebf4-4d6d-aeec-aa57199e19cc)
 
