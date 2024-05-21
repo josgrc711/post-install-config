@@ -110,6 +110,9 @@ had created earlier.
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/72d7c6d7-5d63-4bb3-83d3-7da4e594f983)
 
 
+Connect to a VPN server within Proton VPN.
+
+
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/f3344fc6-ca00-448c-b82e-0695915821a0)
 
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/cf37f533-001c-4d82-b854-a756c374cf1f)
