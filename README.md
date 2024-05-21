@@ -97,7 +97,13 @@ After you sign in you will go to downloads and download Windows on the Proton VP
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/9e05ee35-ebf4-4d6d-aeec-aa57199e19cc)
 
 
+Download Proton VPN and follow the steps, you will be selecting the defaults.
+
+
 ![image](https://github.com/josgrc711/post-install-config/assets/160549884/abfb829e-a362-4eda-bec2-e4aa21a0b687)
+
+After Proton VPN has been downloaded you will then sign on into Proton VPN with username and password that you
+had created earlier.
 
 
 
