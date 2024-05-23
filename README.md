@@ -122,7 +122,8 @@ region and country.
 
 
 
-![image](https://github.com/josgrc711/post-install-config/assets/160549884/cf37f533-001c-4d82-b854-a756c374cf1f)
+
+![image](https://github.com/josgrc711/post-install-config/assets/160549884/c2c142de-b420-4f11-98b8-ea20bc015ff9)
 
 
 
